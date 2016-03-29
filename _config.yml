@@ -2,6 +2,7 @@ name: Cyloam
 favicon: null
 layout_spectrum: 0.47882490372285247
 typography_spectrum: 0.39961026841774583
+title: 'You Can Do It!'
 cta:
   domain: null
   bucket: null

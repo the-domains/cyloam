@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[You Can Do It!]]></title>
-        <description><![CDATA[You Can Do It!]]></description>
+        <title><![CDATA[Cyloam Cycling Club]]></title>
+        <description><![CDATA[Cyloam Cycling Club]]></description>
         <link>https://thegrid.ai/cyloam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 20:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 21:06:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cyloam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9093df-a855-4a84-9ceb-9789fb58ccff.jpg">]]></description>
+            <link>https://www.facebook.com/CyloamCycling/</link>
+            <guid isPermaLink="false">e86173f5-1f63-4e3c-b4d3-be085f852c7a</guid>
+            <pubDate>Tue, 29 Mar 2016 21:06:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Club Rides]]></title>
             <description><![CDATA[<article><h1>Club Rides</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97b85e971b413c8bca2e0a8c740521b54e7b1162.jpg"></article>]]></description>

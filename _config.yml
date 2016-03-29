@@ -1,6 +1,6 @@
 name: Cyloam Cycling Club
 favicon: null
-layout_spectrum: 0.24332
+layout_spectrum: 1
 typography_spectrum: 0.39961026841774583
 title: Cyloam Cycling Club
 cta:
@@ -22,8 +22,8 @@ color:
     - '#a79c93'
     - '#feb55c'
     - '#686a61'
-  brandStrength: 0.8686817097477615
-  lightness: 0.18680473254062235
+  brandStrength: 0.9375
+  lightness: 0
   saturation: 0.20865255687385798
   rhythmicContrast: 0.9871240528300405
 purpose: []
